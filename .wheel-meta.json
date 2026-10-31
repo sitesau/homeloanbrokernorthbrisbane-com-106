@@ -1,0 +1,22 @@
+{
+  "wheel_id": 598,
+  "structure": "umbrella",
+  "slug": "homeloanbrokernorthbrisbane-com-106",
+  "project": "home-loan-brokers-north-brisbane-eligibility-8f702446cf1af1846e",
+  "parent_t1_ref": "homeloanbrokernorthbrisbane-com-152",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokernorthbrisbane.com.au",
+  "primary_kw": "home loan brokers north brisbane eligibility",
+  "intended_url": "http://home-loan-brokers-north-brisbane-eligibility-8f702446cf1af1846e.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "68f0689ac407c85a",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/home-loan-brokers-north-brisbane-before-you-start-b58ebe2bed3ec/",
+      "anchor": "home loan brokers north brisbane before you start explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
